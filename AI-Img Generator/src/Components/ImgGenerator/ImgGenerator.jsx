@@ -16,7 +16,7 @@ function ImgGenerator() {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: "Bearer sk-proj-Z8lz0pPuwtEPQhSkQXphT3BlbkFJ69HQotLnFDeZouZKAUH", // Replace with your actual API key
+          Authorization: "Bearer ${YOUR API KEY}", 
           "User-Agent": "Chrome",
         },
         body: JSON.stringify({
