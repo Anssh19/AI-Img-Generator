@@ -5,3 +5,6 @@
 *High-Quality Image Generation </br>
 *User-Friendly Interface </br>
 *Customizable Parameters
+
+#Get your API key from "OPEN API" </br>
+"https://platform.openai.com/docs/overview"
